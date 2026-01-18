@@ -17,11 +17,3 @@ Add the marketplace to Claude Code:
 ```
 
 Once added, all plugins from this marketplace will be available for installation.
-
-## Contributing
-
-Want to add a plugin to the marketplace? Open a PR with your plugin details.
-
-## License
-
-MIT
