@@ -1,14 +1,27 @@
 {
   "name": "enhance",
-  "version": "1.0.0",
-  "description": "A marketplace of plugins for Claude Code enchancement, including memory permanence and more.",
+  "owner": {
+    "name": "Gareth Williams"
+  },
+  "metadata": {
+    "description": "A marketplace of plugins for Claude Code enhancement, including memory permanence and more.",
+    "version": "1.0.0"
+  },
   "plugins": [
     {
       "name": "claude-memory-plugin",
+      "source": {
+        "source": "github",
+        "repo": "GaZmagik/claude-memory-plugin"
+      },
       "description": "Persistent knowledge management across Claude Code sessions",
-      "repository": "https://github.com/GaZmagik/claude-memory-plugin",
       "version": "1.0.0",
-      "tags": ["memory", "knowledge", "persistence", "sessions"]
+      "author": {
+        "name": "Gareth Williams"
+      },
+      "repository": "https://github.com/GaZmagik/claude-memory-plugin",
+      "license": "MIT",
+      "keywords": ["memory", "knowledge", "persistence", "sessions"]
     }
   ]
 }
