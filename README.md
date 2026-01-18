@@ -10,11 +10,13 @@ A marketplace of plugins for Claude Code.
 
 ## Installation
 
-Plugins can be installed via the Claude Code plugin system:
+Add the marketplace to Claude Code:
 
-```bash
-claude plugins install <plugin-url>
 ```
+/plugin marketplace add GaZmagik/enhance
+```
+
+Once added, all plugins from this marketplace will be available for installation.
 
 ## Contributing
 
