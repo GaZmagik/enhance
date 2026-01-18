@@ -1,0 +1,14 @@
+{
+  "name": "enhance",
+  "version": "1.0.0",
+  "description": "A marketplace of plugins for Claude Code enchancement, including memory permanence and more.",
+  "plugins": [
+    {
+      "name": "claude-memory-plugin",
+      "description": "Persistent knowledge management across Claude Code sessions",
+      "repository": "https://github.com/GaZmagik/claude-memory-plugin",
+      "version": "1.0.0",
+      "tags": ["memory", "knowledge", "persistence", "sessions"]
+    }
+  ]
+}
