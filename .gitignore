@@ -21,4 +21,23 @@ venv
 .venv
 node_modules
 .sass-cache
-.claude
+
+# SDD Framework (symlinks to global ~/.specify/ are ignored, project content tracked)
+# project-specific content in memory/ and specs/ are tracked
+.specify/docs
+.specify/scripts
+.specify/templates
+.specify/spec-driven.md
+.specify/test-driven.md
+
+# Claude Code
+.claude/settings.local.json
+.claude/approvals/
+.claude/cache/
+.claude/flags/
+.claude/logs/
+.claude/memory/local/
+.claude/plans/
+.claude/projects/
+.claude/*.local.md
+.claude/*.local.json
