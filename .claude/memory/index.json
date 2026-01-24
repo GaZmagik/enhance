@@ -1,0 +1,143 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2026-01-22T18:52:43.485Z",
+  "memories": [
+    {
+      "id": "gotcha-sandbox-character-device-pollution",
+      "type": "gotcha",
+      "title": "sandbox-character-device-pollution",
+      "tags": [
+        "sandbox",
+        "claude-code",
+        "character-devices",
+        "project"
+      ],
+      "created": "2026-01-21T19:57:40.636Z",
+      "updated": "2026-01-21T19:57:40.636Z",
+      "scope": "project",
+      "relativePath": "permanent/gotcha-sandbox-character-device-pollution.md"
+    },
+    {
+      "id": "learning-posttooluse-hook-cleanup-pattern",
+      "type": "learning",
+      "title": "posttooluse-hook-cleanup-pattern",
+      "tags": [
+        "hooks",
+        "sandbox",
+        "cleanup",
+        "project"
+      ],
+      "created": "2026-01-21T19:57:41.940Z",
+      "updated": "2026-01-21T19:57:41.940Z",
+      "scope": "project",
+      "relativePath": "permanent/learning-posttooluse-hook-cleanup-pattern.md"
+    },
+    {
+      "id": "gotcha-statusline-emoji-rendering-artifacts",
+      "type": "gotcha",
+      "title": "statusline-emoji-rendering-artifacts",
+      "tags": [
+        "statusline",
+        "emoji",
+        "claude-code",
+        "rendering",
+        "project"
+      ],
+      "created": "2026-01-21T19:57:43.457Z",
+      "updated": "2026-01-21T19:57:43.457Z",
+      "scope": "project",
+      "relativePath": "permanent/gotcha-statusline-emoji-rendering-artifacts.md"
+    },
+    {
+      "id": "gotcha-bun-stdin-workspace-quirk",
+      "type": "gotcha",
+      "title": "bun-stdin-workspace-quirk",
+      "tags": [
+        "bun",
+        "stdin",
+        "typescript",
+        "project"
+      ],
+      "created": "2026-01-21T19:57:44.839Z",
+      "updated": "2026-01-21T19:57:44.839Z",
+      "scope": "project",
+      "relativePath": "permanent/gotcha-bun-stdin-workspace-quirk.md"
+    },
+    {
+      "id": "decision-evaluating-update-handling-strategy-for-session-summaries-precompact-hook",
+      "type": "decision",
+      "title": "Evaluating update handling strategy for session summaries PreCompact hook",
+      "tags": [
+        "promoted-from-think",
+        "project"
+      ],
+      "created": "2026-01-21T20:19:58.985Z",
+      "updated": "2026-01-21T20:19:58.985Z",
+      "scope": "project",
+      "relativePath": "permanent/decision-evaluating-update-handling-strategy-for-session-summaries-precompact-hook.md"
+    },
+    {
+      "id": "decision-session-summary-plugin-architecture-evaluation",
+      "type": "decision",
+      "title": "Session Summary Plugin Architecture Evaluation",
+      "tags": [
+        "promoted-from-think",
+        "project"
+      ],
+      "created": "2026-01-21T20:23:56.790Z",
+      "updated": "2026-01-21T20:23:56.790Z",
+      "scope": "project",
+      "relativePath": "permanent/decision-session-summary-plugin-architecture-evaluation.md"
+    },
+    {
+      "id": "learning-claude-session-summaries-plugin-research",
+      "type": "learning",
+      "title": "Claude Session Summaries Plugin Research",
+      "tags": [
+        "claude-code",
+        "hooks",
+        "transcript-parsing",
+        "precompact",
+        "architecture",
+        "project"
+      ],
+      "created": "2026-01-21T20:26:03.811Z",
+      "updated": "2026-01-21T20:26:03.811Z",
+      "scope": "project",
+      "relativePath": "permanent/learning-claude-session-summaries-plugin-research.md"
+    },
+    {
+      "id": "gotcha-retro-marketplaceplugin-version-sync-requires-dual-updates",
+      "type": "gotcha",
+      "title": "Retro - Marketplace/plugin version sync requires dual updates",
+      "tags": [
+        "retrospective",
+        "process",
+        "plugins",
+        "project"
+      ],
+      "created": "2026-01-22T18:52:38.613Z",
+      "updated": "2026-01-22T18:52:38.613Z",
+      "scope": "project",
+      "relativePath": "permanent/gotcha-retro-marketplaceplugin-version-sync-requires-dual-updates.md",
+      "severity": "high"
+    },
+    {
+      "id": "learning-retro-version-bump-workflow-pattern-established",
+      "type": "learning",
+      "title": "Retro - Version bump workflow pattern established",
+      "tags": [
+        "retrospective",
+        "process",
+        "workflow",
+        "plugins",
+        "project"
+      ],
+      "created": "2026-01-22T18:52:43.481Z",
+      "updated": "2026-01-22T18:52:43.481Z",
+      "scope": "project",
+      "relativePath": "permanent/learning-retro-version-bump-workflow-pattern-established.md",
+      "severity": "medium"
+    }
+  ]
+}

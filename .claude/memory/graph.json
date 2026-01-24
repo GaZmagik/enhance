@@ -1,0 +1,83 @@
+{
+  "version": 1,
+  "nodes": [
+    {
+      "id": "gotcha-sandbox-character-device-pollution",
+      "type": "gotcha"
+    },
+    {
+      "id": "learning-posttooluse-hook-cleanup-pattern",
+      "type": "learning"
+    },
+    {
+      "id": "gotcha-statusline-emoji-rendering-artifacts",
+      "type": "gotcha"
+    },
+    {
+      "id": "gotcha-bun-stdin-workspace-quirk",
+      "type": "gotcha"
+    },
+    {
+      "id": "decision-evaluating-update-handling-strategy-for-session-summaries-precompact-hook",
+      "type": "decision"
+    },
+    {
+      "id": "decision-session-summary-plugin-architecture-evaluation",
+      "type": "decision"
+    },
+    {
+      "id": "learning-claude-session-summaries-plugin-research",
+      "type": "learning"
+    },
+    {
+      "id": "gotcha-retro-marketplaceplugin-version-sync-requires-dual-updates",
+      "type": "gotcha"
+    },
+    {
+      "id": "learning-retro-version-bump-workflow-pattern-established",
+      "type": "learning"
+    }
+  ],
+  "edges": [
+    {
+      "source": "gotcha-sandbox-character-device-pollution",
+      "target": "learning-posttooluse-hook-cleanup-pattern",
+      "label": "relates-to"
+    },
+    {
+      "source": "learning-posttooluse-hook-cleanup-pattern",
+      "target": "gotcha-sandbox-character-device-pollution",
+      "label": "relates-to"
+    },
+    {
+      "source": "learning-posttooluse-hook-cleanup-pattern",
+      "target": "gotcha-bun-stdin-workspace-quirk",
+      "label": "relates-to"
+    },
+    {
+      "source": "gotcha-statusline-emoji-rendering-artifacts",
+      "target": "learning-posttooluse-hook-cleanup-pattern",
+      "label": "relates-to"
+    },
+    {
+      "source": "decision-evaluating-update-handling-strategy-for-session-summaries-precompact-hook",
+      "target": "learning-claude-session-summaries-plugin-research",
+      "label": "relates-to"
+    },
+    {
+      "source": "decision-session-summary-plugin-architecture-evaluation",
+      "target": "learning-claude-session-summaries-plugin-research",
+      "label": "relates-to"
+    },
+    {
+      "source": "decision-evaluating-update-handling-strategy-for-session-summaries-precompact-hook",
+      "target": "decision-session-summary-plugin-architecture-evaluation",
+      "label": "relates-to"
+    },
+    {
+      "source": "gotcha-retro-marketplaceplugin-version-sync-requires-dual-updates",
+      "target": "learning-retro-version-bump-workflow-pattern-established",
+      "label": "relates-to"
+    }
+  ]
+}
