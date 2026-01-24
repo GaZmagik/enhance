@@ -5,7 +5,7 @@
   },
   "metadata": {
     "description": "A marketplace of plugins for Claude Code enhancement, including memory permanence and more.",
-    "version": "1.6.7"
+    "version": "1.7.0"
   },
   "plugins": [
     {
@@ -15,7 +15,7 @@
         "repo": "GaZmagik/claude-memory-plugin"
       },
       "description": "Persistent knowledge management across Claude Code sessions",
-      "version": "1.0.6",
+      "version": "1.0.8",
       "author": {
         "name": "Gareth Williams"
       },
@@ -30,7 +30,7 @@
         "repo": "GaZmagik/claude-prompt-improver"
       },
       "description": "Automatically improves user prompts before sending to Claude",
-      "version": "1.6.0",
+      "version": "1.7.0",
       "author": {
         "name": "Gareth Williams"
       },
