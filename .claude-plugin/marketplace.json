@@ -5,7 +5,7 @@
   },
   "metadata": {
     "description": "A marketplace of plugins for Claude Code enhancement, including memory permanence and more.",
-    "version": "1.8.6"
+    "version": "1.8.7"
   },
   "plugins": [
     {
@@ -30,7 +30,7 @@
         "repo": "GaZmagik/claude-prompt-improver"
       },
       "description": "Automatically improves user prompts before sending to Claude",
-      "version": "1.7.3",
+      "version": "1.8.0",
       "author": {
         "name": "Gareth Williams"
       },
