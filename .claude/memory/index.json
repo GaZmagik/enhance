@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2026-01-22T18:52:43.485Z",
+  "lastUpdated": "2026-01-27T01:17:03.513Z",
   "memories": [
     {
       "id": "gotcha-sandbox-character-device-pollution",
@@ -138,6 +138,71 @@
       "scope": "project",
       "relativePath": "permanent/learning-retro-version-bump-workflow-pattern-established.md",
       "severity": "medium"
+    },
+    {
+      "id": "gotcha-claude-code-plugin-path-resolution-with-explicit-declarations",
+      "type": "gotcha",
+      "title": "Claude Code plugin path resolution with explicit declarations",
+      "tags": [
+        "claude-code",
+        "plugins",
+        "configuration",
+        "hooks",
+        "project"
+      ],
+      "created": "2026-01-27T01:16:33.144Z",
+      "updated": "2026-01-27T01:16:33.144Z",
+      "scope": "project",
+      "relativePath": "permanent/gotcha-claude-code-plugin-path-resolution-with-explicit-declarations.md"
+    },
+    {
+      "id": "learning-github-raw-content-cdn-caching-lag-use-blob-view-for-fresh-checks",
+      "type": "learning",
+      "title": "GitHub raw content CDN caching lag - use blob view for fresh checks",
+      "tags": [
+        "github",
+        "cdn",
+        "caching",
+        "version-verification",
+        "project"
+      ],
+      "created": "2026-01-27T01:16:48.019Z",
+      "updated": "2026-01-27T01:16:48.019Z",
+      "scope": "project",
+      "relativePath": "permanent/learning-github-raw-content-cdn-caching-lag-use-blob-view-for-fresh-checks.md"
+    },
+    {
+      "id": "learning-problemsolution-framing-outperforms-product-launch-for-developer-tool-adoption",
+      "type": "learning",
+      "title": "Problem/Solution framing outperforms product launch for developer tool adoption",
+      "tags": [
+        "reddit",
+        "marketing",
+        "developer-tools",
+        "community",
+        "product-positioning",
+        "project"
+      ],
+      "created": "2026-01-27T01:16:54.736Z",
+      "updated": "2026-01-27T01:16:54.736Z",
+      "scope": "project",
+      "relativePath": "permanent/learning-problemsolution-framing-outperforms-product-launch-for-developer-tool-adoption.md"
+    },
+    {
+      "id": "artifact-marketplace-plugin-version-bump-tracking-current-state",
+      "type": "artifact",
+      "title": "Marketplace plugin version bump tracking - current state",
+      "tags": [
+        "marketplace",
+        "versioning",
+        "plugins",
+        "project-tracking",
+        "project"
+      ],
+      "created": "2026-01-27T01:17:03.502Z",
+      "updated": "2026-01-27T01:17:03.502Z",
+      "scope": "project",
+      "relativePath": "permanent/artifact-marketplace-plugin-version-bump-tracking-current-state.md"
     }
   ]
 }

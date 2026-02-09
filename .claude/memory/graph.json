@@ -36,6 +36,22 @@
     {
       "id": "learning-retro-version-bump-workflow-pattern-established",
       "type": "learning"
+    },
+    {
+      "id": "gotcha-claude-code-plugin-path-resolution-with-explicit-declarations",
+      "type": "gotcha"
+    },
+    {
+      "id": "learning-github-raw-content-cdn-caching-lag-use-blob-view-for-fresh-checks",
+      "type": "learning"
+    },
+    {
+      "id": "learning-problemsolution-framing-outperforms-product-launch-for-developer-tool-adoption",
+      "type": "learning"
+    },
+    {
+      "id": "artifact-marketplace-plugin-version-bump-tracking-current-state",
+      "type": "artifact"
     }
   ],
   "edges": [
